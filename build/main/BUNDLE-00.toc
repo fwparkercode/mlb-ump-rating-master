@@ -1,0 +1,3 @@
+([('main',
+   '/Users/alee/Downloads/mlb-ump-rating-master/dist/main',
+   'EXECUTABLE')],)

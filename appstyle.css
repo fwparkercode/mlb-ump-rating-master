@@ -1,0 +1,38 @@
+QWidget{
+    background-color: HoneyDew;
+}
+
+QPushButton{
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    padding: 5px;
+    font-family: "Console";
+    background-color: "tomato";
+    height: 30;
+    border-width: 0;
+    color: white;
+    font-size: 12px;
+    outline-width: 2px;
+    outline-color: black;
+}
+
+QComboBox{
+    background-color: LightGray;
+    color: DarkBlue;
+}
+
+QLabel#title{
+    color: Tomato;
+
+    font-size: 40px;
+    font-family: "Georgia";
+}
+
+QLabel#descript{
+    color: DarkBlue;
+
+    font-size: 12px;
+    font-family: "Georgia";
+}
